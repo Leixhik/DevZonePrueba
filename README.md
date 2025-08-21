@@ -37,6 +37,7 @@ git status                 # Ver el estado de los archivos
 git add .                  # Agregar todos los cambios al área de preparación
 git add archivo.txt        # Agregar un archivo específico
 git commit -m "Mensaje"    # Guardar cambios en el historial
+git commit -m "feat: agrego sección de contacto" -m "Incluye formulario con nombre, email y mensaje."
 git log --oneline          # Ver historial de commits resumido
 
 🌿 Ramas
